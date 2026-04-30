@@ -6,19 +6,19 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer" alt="Typing SVG" /></a>
 </p>
 
-   <a href="https://www.linkedin.com/in/mahfudin-adnan-410963378/" target="_blank">
+   <a href="https://www.linkedin.com/in/adi-roykhan-an-nuruddin-6a4706178/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-   <a href="https://x.com/adn_nyx" target="_blank">
+   <a href="https://x.com/rennn_ns" target="_blank">
     <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
    <a href="#" target="_blank">
     <img alt="Portofolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
 
-- 👋 Hi, I’m Adnan
-- 🔥 I'm a Web3 Enthusiast
-- 💬 Talk to me about freelancing opportunities in Software Engineering
+- 👋 Hi, I’m Ren
+- 🔥 I'm a new programmer
+- 💬 Do not talk to me about freelancing opportunities in Software Engineering
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   <a href="https://html.com/" target="_blank">
